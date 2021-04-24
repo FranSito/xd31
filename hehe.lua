@@ -13,8 +13,8 @@ https://raw.githubusercontent.com/n4zzu/nxzUI/main/nxzUI.lua
 
 --[[UPDATER START]]--
 local SCRIPT_FILE_NAME = GetScriptName()
-local SCRIPT_FILE_ADDR = "https://github.com/FranSito/xd31/blob/main/hehe.lua"
-local VERSION_FILE_ADDR = "https://github.com/FranSito/xd31/blob/main/version.txt"
+local SCRIPT_FILE_ADDR = "https://raw.githubusercontent.com/FranSito/xd31/main/hehe.lua"
+local VERSION_FILE_ADDR = "https://raw.githubusercontent.com/FranSito/xd31/main/version.txt"
 local VERSION_NUMBER = "3.1"
 local version_check_done = false
 local update_downloaded = false
